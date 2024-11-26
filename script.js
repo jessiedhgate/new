@@ -3,7 +3,7 @@ let manufacturersData = {};
 
 // Function to load manufacturer data from a separate JSON file
 function loadManufacturerData() {
-  fetch('path/to/manufacturers.json')  // Change this to the path where your JSON file is located
+  fetch('/manufacturers.json')  // Change this to the path where your JSON file is located
     .then(response => response.json())
     .then(data => {
       manufacturersData = data;
