@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Contact Tipssmm.com for any inquiries, feedback, or assistance. We're here to help!">
+  <meta name="keywords" content="Contact Us, Support, Feedback, Inquiries">
+  <meta name="author" content="[Your Website Name]">
+  <title>Contact Us - Tipssmm.com</title>
+  <link rel="stylesheet" href="contact-us-styles.css">
+</head>
+<body>
+  <header>
+    <h1>Contact Us</h1>
+  </header>
+  <main>
+    <section>
+      <p>
+        Have a question, feedback, or need assistance? We’d love to hear from you! Use the form below to get in touch, and our team will respond as quickly as possible.
+      </p>
+    </section>
+    <section>
+      <h2>Contact Form</h2>
+      <form action="submit-form.php" method="post">
+        <label for="name">Your Name <span>*</span></label>
+        <input type="text" id="name" name="name" placeholder="Enter your name" required>
+
+        <label for="email">Your Email <span>*</span></label>
+        <input type="email" id="email" name="email" placeholder="Enter your email address" required>
+
+        <label for="subject">Subject</label>
+        <input type="text" id="subject" name="subject" placeholder="Subject of your message">
+
+        <label for="message">Message <span>*</span></label>
+        <textarea id="message" name="message" rows="5" placeholder="Write your message here" required></textarea>
+
+        <button type="submit">Send Message</button>
+      </form>
+    </section>
+    <!--
+  <section>
+      <h2>Other Ways to Reach Us</h2>
+      <p>If you prefer, you can contact us through the following channels:</p>
+      <ul>
+        <li><strong>Email:</strong> <a href="mailto:support@yourwebsite.com">support@yourwebsite.com</a></li>
+        <li><strong>Phone:</strong> +1 (555) 123-4567</li>
+        <li><strong>Address:</strong> 123 Digital Way, Tech City, 45678</li>
+      </ul>
+    </section>
+  -->
+  </main>
+  <footer>
+    <p>&copy; 2024 <a href="https://www.tipssmm.com/">Tipssmm.com</a>. All rights reserved.</p>
+  </footer>
+</body>
+</html>
