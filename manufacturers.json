@@ -30,6 +30,7 @@
     {"name": "Fleetwood Homes (Budget Series)", "value": "fleetwood_budget"},
     {"name": "Clayton Homes (Budget Series)", "value": "clayton_budget"},
     {"name": "Cavco Homes (Budget Series)", "value": "cavco_budget"}
+    {"name": "Others", "value": "other"}
   ],
   "Regional/Specialty": [
     {"name": "Kit Custom Homebuilders (West Coast)", "value": "kit"},
