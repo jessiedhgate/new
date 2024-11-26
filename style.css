@@ -34,7 +34,7 @@ h1 {
     font-size: 1.3em;
     text-align: center;
     border-radius: 5px;
-    width: 50%;
+    width: 100%;
 }
 
 /* Form Elements */
@@ -48,7 +48,7 @@ label {
 
 input[type="number"],
 select {
-    width: 50%;
+    width: 100%;
     padding: 10px;
     margin-top: 5px;
     border: 1px solid #ccc;
@@ -57,7 +57,7 @@ select {
 }
 
 button {
-    width: 50%;
+    width: 100%;
     padding: 15px;
     background-color: #00796b;
     color: white;
