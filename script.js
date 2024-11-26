@@ -30,12 +30,12 @@ function populateManufacturerDropdown() {
 // Function to calculate the home value based on input factors
 function calculateHomeValue() {
   // Get values from the form
-  const homeAge = parseInt(document.getElementById('home-age').value);
-  const homeSize = parseInt(document.getElementById('home-size').value);
-  const homeCondition = document.getElementById('home-condition').value;
-  const numRooms = parseInt(document.getElementById('num-rooms').value);
-  const homeType = document.getElementById('home-type').value;
-  const locationDemand = document.getElementById('location-demand').value;
+  const homeAge = parseInt(document.getElementById('age').value);
+  const homeSize = parseInt(document.getElementById('size').value);
+  const homeCondition = document.getElementById('condition').value;
+  const numRooms = parseInt(document.getElementById('numRooms').value);
+  const homeType = document.getElementById('homeType').value;
+  const locationDemand = document.getElementById('locationDemand').value;
   const manufacturer = document.getElementById('manufacturer').value;
 
   // Validation: Check for empty fields and invalid input
