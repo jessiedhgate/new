@@ -1,0 +1,44 @@
+{
+  "Premium": [
+    {"name": "Clayton Homes", "value": "clayton"},
+    {"name": "Palm Harbor Homes", "value": "palm_harbor"},
+    {"name": "Golden West Homes", "value": "golden_west"},
+    {"name": "Champion Homes", "value": "champion"},
+    {"name": "Silvercrest Homes", "value": "silvercrest"},
+    {"name": "Skyline Homes", "value": "skyline"},
+    {"name": "Cavco Homes", "value": "cavco"},
+    {"name": "Karsten Homes", "value": "karsten"},
+    {"name": "Jacobsen Homes", "value": "jacobsen"}
+  ],
+  "Standard": [
+    {"name": "Adventure Homes", "value": "adventure"},
+    {"name": "Fairmont Homes", "value": "fairmont"},
+    {"name": "Sunshine Homes", "value": "sunshine"},
+    {"name": "Nashua Homes", "value": "nashua"},
+    {"name": "Redman Homes", "value": "redman"},
+    {"name": "Oak Creek Homes", "value": "oak_creek"},
+    {"name": "Cavalier Homes", "value": "cavalier"},
+    {"name": "Commodore Homes", "value": "commodore"}
+  ],
+  "Budget": [
+    {"name": "Legacy Housing", "value": "legacy"},
+    {"name": "TRU Homes", "value": "tru"},
+    {"name": "Hamilton Homebuilders", "value": "hamilton"},
+    {"name": "Southern Energy Homes", "value": "southern_energy"},
+    {"name": "Jessup Housing", "value": "jessup"},
+    {"name": "Deer Valley Homes", "value": "deer_valley"},
+    {"name": "Fleetwood Homes (Budget Series)", "value": "fleetwood_budget"},
+    {"name": "Clayton Homes (Budget Series)", "value": "clayton_budget"},
+    {"name": "Cavco Homes (Budget Series)", "value": "cavco_budget"}
+  ],
+  "Regional/Specialty": [
+    {"name": "Kit Custom Homebuilders (West Coast)", "value": "kit"},
+    {"name": "Karsten Homes (Southwest USA)", "value": "karsten_southwest"},
+    {"name": "Jacobsen Homes (Florida)", "value": "jacobsen_florida"},
+    {"name": "Commodore Homes (Northeast USA)", "value": "commodore_northeast"},
+    {"name": "Southern Energy Homes (Southeast USA)", "value": "southern_energy_southeast"},
+    {"name": "Palm Harbor Homes (Texas & Southwest)", "value": "palm_harbor_texas"},
+    {"name": "Fleetwood Homes (Northwest USA)", "value": "fleetwood_northwest"},
+    {"name": "Cavco Homes (West Coast)", "value": "cavco_west_coast"}
+  ]
+}
