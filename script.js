@@ -28,7 +28,7 @@ function populateManufacturerDropdown() {
 }
 
 // Function to calculate the home value based on input factors
-function calculateMobileHomeValue() {
+function calculateHomeValue() {
   // Get values from the form
   const homeAge = parseInt(document.getElementById('home-age').value);
   const homeSize = parseInt(document.getElementById('home-size').value);
