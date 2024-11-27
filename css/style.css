@@ -55,6 +55,13 @@ h1 {
 }
 
 /* Form Elements */
+form {
+  background: #f7f7f7;
+  padding: 20px;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}
+
 label {
     font-weight: bold;
     color: #333;
