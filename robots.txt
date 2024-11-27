@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+User-agent: baiduspider
+Disallow: /
+
+Sitemap: https://www.tipssmm.com/sitemap.xml
