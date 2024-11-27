@@ -1,0 +1,32 @@
+footer {
+  background-color: #333; /* Dark background for contrast */
+  color: #fff; /* White text */
+  text-align: center; /* Center align content */
+  padding: 20px 10px; /* Add spacing */
+  font-size: 14px; /* Adjust font size */
+}
+
+.footer-container {
+  max-width: 1200px; /* Limit width for large screens */
+  margin: 0 auto; /* Center align the footer content */
+}
+
+.footer-links {
+  margin-bottom: 10px;
+}
+
+.footer-links a {
+  color: #fff; /* Link color */
+  text-decoration: none; /* Remove underline */
+  margin: 0 15px; /* Add spacing between links */
+  font-weight: 500;
+  transition: color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+.footer-links a:hover {
+  color: #1e90ff; /* Change color on hover */
+}
+
+.footer-credits p {
+  margin: 0; /* Remove default margin */
+}
