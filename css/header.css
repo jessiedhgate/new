@@ -1,0 +1,42 @@
+header {
+  background-color: #1e90ff; /* Blue background */
+  padding: 15px 20px; /* Add padding for spacing */
+  color: #fff; /* White text */
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header-container {
+  max-width: 1200px; /* Center content on large screens */
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+}
+
+.logo img {
+  height: 50px; /* Set logo size */
+  width: auto; /* Maintain aspect ratio */
+}
+
+.nav-menu ul {
+  list-style: none; /* Remove default list style */
+  margin: 0;
+  padding: 0;
+  display: flex; /* Align items horizontally */
+  gap: 20px; /* Space between links */
+}
+
+.nav-menu ul li a {
+  color: #fff; /* White text color */
+  text-decoration: none; /* Remove underline */
+  font-weight: 600; /* Make text bold */
+  font-size: 16px; /* Adjust text size */
+  transition: color 0.3s ease; /* Smooth hover effect */
+}
+
+.nav-menu ul li a:hover {
+  color: #ffd700; /* Change text color on hover */
+}
