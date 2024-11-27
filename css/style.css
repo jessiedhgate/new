@@ -45,9 +45,9 @@ h1 {
 .result {
     margin-top: 20px;
     padding: 15px;
-    background-color: #e0f7fa;
-    border: 1px solid #00796b;
-    color: #00796b;
+    background-color: #f7f7f7;
+    border: 1px solid #ddd;
+    color: #444;
     font-weight: bold;
     font-size: 1.3em;
     text-align: center;
