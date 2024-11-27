@@ -1,7 +1,7 @@
 header {
-  background-color: #1e90ff; /* Blue background */
+  background-color: #fff; /* white background */
   padding: 15px 20px; /* Add padding for spacing */
-  color: #fff; /* White text */
+  color: #f7f7f7; /* blue */
   display: flex;
   align-items: center;
   justify-content: space-between;
